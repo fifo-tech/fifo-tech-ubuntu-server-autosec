@@ -13,7 +13,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ubuntu-server-autosec.git
+git clone [https://github.com/yourusername/ubuntu-server-autosec.git](https://github.com/fifo-tech/fifo-tech-ubuntu-server-autosec.git)
 cd ubuntu-server-autosec
 
 # Make scripts executable
